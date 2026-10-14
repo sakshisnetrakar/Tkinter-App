@@ -5,7 +5,6 @@ A simple Python Tkinter desktop application. It opens a native Windows window, s
 ## Run
 
 ```cmd
-cd "C:\Users\Sakshi S Netrakar\Desktop\Tkinter Local GUI Demo"
 python app.py
 ```
 
